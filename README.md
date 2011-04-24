@@ -4,7 +4,7 @@ jquery.hintbox.js is a jQuery plugin that adds functionality to an input box to 
 
 # Demo
 
-See a JSFiddle demo of jquery.hintbox at [http://jsfiddle.net/jookyboi/ra22r/34/](http://jsfiddle.net/jookyboi/ra22r/34/).
+See a JSFiddle demo of jquery.hintbox at [http://jsfiddle.net/jookyboi/ra22r/34/](http://jsfiddle.net/jookyboi/ra22r/34/)
 
 # Options
 
