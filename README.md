@@ -8,14 +8,14 @@ See a JSFiddle demo of jquery.hintbox at [http://jsfiddle.net/jookyboi/ra22r/34/
 
 # Options
 
-* activeClass (string): The CSS class to use when the textbox has focus
-* filledClass (string): The CSS class to use when the non-focused textbox contains a non-empty string
-* hintText (string): The default text to show when the non-focused textbox contains an empty value
+* activeClass (string): CSS class to use when the textbox has focus
+* filledClass (string): CSS class to use when the non-focused textbox contains a non-empty string
+* hintText (string): Default text to show when the non-focused textbox contains an empty value
 
 # Events
 
-The hintbox does not trigger any custom events.
+jquery.hintbox does not trigger any custom events.
 
 # Methods
 
-The hintbox does not expose any public methods.
+jquery.hintbox does not expose any public methods.
